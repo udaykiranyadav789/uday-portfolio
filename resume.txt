@@ -1,33 +1,38 @@
-G. UDAY KIRAN YADAV
-B.Tech Information Technology Student | Aspiring Software Developer
-Hyderabad, Telangana, India
+<div id="contact">
+  <h2 class="section-title"><span>✉</span> Contact</h2>
 
-PROFILE
-B.Tech Information Technology student at Anurag University interested in software development, problem-solving, and practical technology projects. Actively improving programming and database skills.
+  <p class="contact-note">
+    Feel free to connect with me for internships,
+    software development opportunities, and project collaboration.
+  </p>
 
-EDUCATION
-B.Tech in Information Technology
-Anurag University
-Expected graduation: 2028
+  <p>
+    ✉ &nbsp;
+    <a href="mailto:udaykiranyadav789@gmail.com">
+      Personal Email
+    </a>
+  </p>
 
-TECHNICAL SKILLS
-Programming: C, Java, C++
-Computer Science: Data Structures and Algorithms
-Database: MySQL
-Web technologies: HTML, CSS, JavaScript (learning)
+  <p>
+    🎓 &nbsp;
+    <a href="mailto:24eg112b08@anurag.edu.in">
+      University Email
+    </a>
+  </p>
 
-PROJECTS
-Lost and Found Management System — in development
-Academic concept for a web application to report, search, and manage lost-and-found items.
+  <p>
+    ⌘ &nbsp;
+    <a href="https://github.com/udaykiranyadav789"
+       target="_blank" rel="noopener noreferrer">
+      GitHub Profile
+    </a>
+  </p>
 
-Scalable Crowd Analytics System — academic presentation
-Explored real-time crowd-density prediction using CCTV streams and computer-vision / machine-learning concepts.
-
-ESP32 Spy Robot for Surveillance — project concept
-Exploring an ESP32-based robot for remote monitoring and control.
-
-CAREER OBJECTIVE
-To develop strong software engineering skills, build practical projects, gain internship experience, and pursue a meaningful career in technology.
-
-CONTACT
-Replace this section with your professional email, GitHub profile, and LinkedIn profile before sending this resume.
+  <p>
+    in &nbsp;
+    <a href="https://www.linkedin.com/in/uday-kiran-yadav-2084373b3"
+       target="_blank" rel="noopener noreferrer">
+      LinkedIn Profile
+    </a>
+  </p>
+</div>
