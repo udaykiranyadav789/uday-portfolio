@@ -1,16 +1,17 @@
 # Uday Kiran Yadav — Portfolio
 
+🌐 **Live Portfolio:** [Visit My Website](https://udaykiranyadav789.github.io/uday-portfolio/)
+
+Welcome to my personal portfolio! This website showcases my profile, technical skills, projects, and resume.
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
 ## Run in VS Code
-1. Extract `uday_portfolio.zip`.
-2. Open the extracted `uday_portfolio` folder in VS Code.
-3. Open `index.html` in your browser, or install the **Live Server** extension in VS Code.
-4. Right-click `index.html` and choose **Open with Live Server**.
+1. Open the project folder in VS Code.
+2. Open `index.html` in your browser, or use the Live Server extension.
 
-## Personalize before publishing
-- In `index.html`, replace `your.email@example.com` with your real professional email.
-- Replace the GitHub and LinkedIn links with your profile links.
-- Update the project descriptions to match what is actually built.
-- `resume.txt` is a starter resume; update it with your accurate details.
-- The portfolio currently uses text-based project icons and does not require image assets.
-
-The page is responsive and includes a mobile menu, dark/light theme toggle, active navigation, project cards, and a resume download link.
+## Repository
+[View Source Code on GitHub](https://github.com/udaykiranyadav789/uday-portfolio)
