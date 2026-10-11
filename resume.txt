@@ -1,38 +1,58 @@
-<div id="contact">
-  <h2 class="section-title"><span>✉</span> Contact</h2>
+# G. UDAY KIRAN YADAV
 
-  <p class="contact-note">
-    Feel free to connect with me for internships,
-    software development opportunities, and project collaboration.
-  </p>
+**B.Tech Information Technology Student | Aspiring Software Developer**
 
-  <p>
-    ✉ &nbsp;
-    <a href="mailto:udaykiranyadav789@gmail.com">
-      Personal Email
-    </a>
-  </p>
+Hyderabad, Telangana, India
 
-  <p>
-    🎓 &nbsp;
-    <a href="mailto:24eg112b08@anurag.edu.in">
-      University Email
-    </a>
-  </p>
+## PROFILE
 
-  <p>
-    ⌘ &nbsp;
-    <a href="https://github.com/udaykiranyadav789"
-       target="_blank" rel="noopener noreferrer">
-      GitHub Profile
-    </a>
-  </p>
+B.Tech Information Technology student at Anurag University with an interest in software development, problem-solving, and practical technology projects. Actively strengthening programming, data structures, and database skills while developing practical experience through academic projects.
 
-  <p>
-    in &nbsp;
-    <a href="https://www.linkedin.com/in/uday-kiran-yadav-2084373b3"
-       target="_blank" rel="noopener noreferrer">
-      LinkedIn Profile
-    </a>
-  </p>
-</div>
+## EDUCATION
+
+**B.Tech in Information Technology**  
+Anurag University  
+Expected Graduation: 2028
+
+## TECHNICAL SKILLS
+
+- **Programming Languages:** C, Java, C++
+- **Computer Science:** Data Structures and Algorithms, Problem-Solving
+- **Database:** MySQL
+- **Web Technologies:** HTML, CSS, JavaScript (learning)
+
+## PROJECTS
+
+**1. Lost and Found Management System — In Development**
+
+A web application project focused on reporting, searching, and managing lost-and-found items. The proposed system aims to make it easier to organize item information and identify potential matches.
+
+**Technologies:** Java, Spring Boot, MySQL, HTML, CSS
+
+**2. Scalable Crowd Analytics System — Academic Presentation**
+
+An academic concept exploring real-time crowd-density analysis using CCTV streams and computer-vision and machine-learning techniques.
+
+**Focus Areas:** Computer Vision, Machine Learning, Data Analytics
+
+**3. ESP32-Based Remote Monitoring Robot — Project Concept**
+
+A proposed ESP32-based robotics project exploring remote monitoring, connectivity, and control through an IP network.
+
+**Focus Areas:** ESP32, IoT, Networking
+
+## CAREER OBJECTIVE
+
+To develop strong software engineering skills, build useful technology projects, gain practical industry experience through internships, and pursue a meaningful career in software development.
+
+## CONTACT
+
+- **Personal Email:** udaykiranyadav789@gmail.com
+- **University Email:** 24eg112b08@anurag.edu.in
+- **LinkedIn:** https://www.linkedin.com/in/uday-kiran-yadav-2084373b3
+- **GitHub:** https://github.com/udaykiranyadav789
+
+---
+
+**G. Uday Kiran Yadav**  
+Aspiring Software Developer | B.Tech Information Technology
